@@ -1,0 +1,45 @@
+
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  /*height: 100vh;*/
+  margin-bottom: 50px;
+}
+
+.row{
+  display: flex;
+   justify-content: space-around;
+   background-color: coral;
+   width: 100px;
+   height: 100px;
+}
+
+.container-four{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.wrap{
+  display: flex;
+  /*flex-wrap: wrap;
+  align-content: center; */
+  justify-content: space-between;
+}
+
+
+.container-tow{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100vh;
+  
+}
+
+.container-three{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+} 
+
